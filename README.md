@@ -1,7 +1,4 @@
-Write OpenStreetMap data files.
-
-Currently only XML format is supported.
-
+Reads an OSM data file (XML or PBF), removes all tags for all objects, *except* for the white listed tags.
 
 
 # Copyright / Licence
